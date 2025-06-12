@@ -18,8 +18,7 @@ const About = () => (
           </p>
           <p className="text-gray-600 mb-6 leading-relaxed">
             With a passion for building high-performance, user-centric applications, I focus on delivering 
-            clean, efficient, and maintainable code using modern technologies. Currently pursuing my final 
-            year of BSCS at The Islamia University of Bahawalpur.
+            clean, efficient, and maintainable code using modern technologies. 
           </p>
           <div className="grid grid-cols-2 gap-4 mt-8">
             <div className="bg-blue-50 p-4 rounded-lg">
